@@ -1,0 +1,7 @@
+Barack,Obama,111-222-4444,Fredricksburg,Virginia,78321,123 Main St.,Bama
+Michelle,Obama,222-333-5555,Detriot,Michigan,40421,12 Douglas Ave.,Mich
+John,Miller,202-629-1589,Topeka,Kansas,87645,2345 6th Street,Joe
+Sola,Ambibola,202-600-9442,Pittsburg,Pennsylvania,40231,6666 12 Georgia Ave.,Sholzy
+Errol,Grannum,202-244-2044,Dallas,Texas,78552,56 D Street,EJ
+Bolu,Aiki-raji,202-769-0593,Washington,DC,20059,2311 66 32nd Street,Bowu
+Barry,Harris,202-462-1212,Denver,Colorado,67901, 605 Valley View Road,Barestein Bear

@@ -1,0 +1,7 @@
+Barack,Obama,111-222-4444,Fredricksburg,Virginia,78321,Main-St,Bama
+Michelle,Obama,222-333-5555,Detriot,Michigan,40421,Douglas-Ave,Mich
+John,Miller,202-629-1589,Topeka,Kansas,87645,th-Street,Joe
+Sola,Ambibola,202-600-9442,Pittsburg,Pennsylvania,40231,GeorgiaAve,Sholzy
+Errol,Grannum,202-244-2044,Dallas,Texas,78552,DStreet,EJ
+Bolu,Aiki-raji,202-769-0593,Washington,DC,20059,nd-Street,Bowu
+Barry,Harris,202-462-1212,Denver,Colorado,67901,Valley-View-Road,BaresteinBear
