@@ -20,7 +20,7 @@ public class DatabaseCon {
 	String portNumber = "5432";
 	String dbName = "contactdb";
 	String username = "ramhari";
-	String password = "Siliconiosis.23";
+	String password = "anyOf.your.passPhrases";
 	
 	String url = "jdbc:postgresql://" + serverAddress + ":" + portNumber + "/" + dbName;
 
